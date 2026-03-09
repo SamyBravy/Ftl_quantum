@@ -9,7 +9,7 @@ Explore the fascinating world of **Quantum Computing**. This project explores fo
 
 ## 🚀 Overview
 
-The project is structured as a series of progressive exercises, moving from simple qubit states up to advanced quantum algorithms:
+The project is structured as a series of progressive exercises (each featuring theoretical explanations and links to the algorithms), moving from simple qubit states up to advanced quantum algorithms:
 
 -   `Ex00` **Superposition**: Introduction to creating basic quantum superposition states using the Hadamard gate.
 -   `Ex01` **Entanglement**: Exploring quantum entanglement and creating a Bell state using CNOT gates.
