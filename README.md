@@ -66,5 +66,3 @@ chmod +x start.sh
 └── Theory/                     # Theoretical explanations and notes
 ```
 
----
-*Created as part of the 42 curriculum exploring Quantum Information Science.*
